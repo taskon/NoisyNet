@@ -1,7 +1,7 @@
 # NoisyNet
 
 This repository contains reference implementation for NoisyNet, **Learning to communicate at noisy Communication Envirometns**
-## Cite
+
 
 ## Installation
 
